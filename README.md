@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sports Social Media Web App](https://github.com/HatemKhabir/pingMeetpong)
 
-- 🌱 I’m currently learning **MERN Stack , Python , AI , ML**
+- 🌱 I’m currently learning **Springboot and microservices**
 
 - 👨‍💻 My First Portfolio , More Like a Country Presentation And A personal Profile : [hatemkhabir.netlify.app](hatemkhabir.netlify.app)
 
